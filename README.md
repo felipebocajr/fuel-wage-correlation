@@ -14,3 +14,16 @@ After this, you just need run all the notebook, and see the result. (this might 
 # Versions
 ![image](https://github.com/user-attachments/assets/f5ae773d-9acb-49d4-a008-029968676b91)
 
+# Results
+
+![image](https://github.com/user-attachments/assets/3c80714a-5a0d-4ea5-8d5f-b806bd4b23cd)
+**Liters per minimum wage over the years in Brazil**
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/34efcb83-daba-430a-a82a-924e083c61f8)
+**Price of fuel over the year in Brazil**
+
+
