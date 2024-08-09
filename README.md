@@ -24,6 +24,6 @@ After this, you just need run all the notebook, and see the result. (this might 
 
 
 ![image](https://github.com/user-attachments/assets/34efcb83-daba-430a-a82a-924e083c61f8)
-**Price of fuel over the year in Brazil**
+**Price of fuel over the years in Brazil**
 
 
